@@ -1,7 +1,4 @@
 # Simulation-Chinese-City
-Nome: Taianny Sayuri Shiotani
-RA: 2144115
-
 Descrição:
 Desenvolvimento de um simulador de uma cidade chinesa antiga, visando conhecer 
 como eram as arquitetura das casas, tanto externamente como internamente.
