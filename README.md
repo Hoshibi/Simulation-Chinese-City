@@ -26,5 +26,12 @@ Requisitos Implementados:
 - Utilização de iluminação direcional
 - Adição de água
 
+Fotos:
+![Foto1](https://github.com/Hoshibi/Simulation-Chinese-City/assets/48483770/780f8580-8eed-41ae-875a-6de2a9d52eea)
+![Foto2](https://github.com/Hoshibi/Simulation-Chinese-City/assets/48483770/0ef7b457-9075-4013-b569-dbb7bb4dd335)
+![Foto3](https://github.com/Hoshibi/Simulation-Chinese-City/assets/48483770/8929b1e3-64e7-41bc-9d68-a8d0c153c448)
+![Foto4](https://github.com/Hoshibi/Simulation-Chinese-City/assets/48483770/ce35861e-2599-4d8e-badb-0b8cd8c39dca)
+![Foto5](https://github.com/Hoshibi/Simulation-Chinese-City/assets/48483770/e4b2b552-f5b8-42fc-b4e3-5563596940fe)
+
 Repositório:
 - https://github.com/Hoshibi/Simulation-Chinese-City
